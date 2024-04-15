@@ -1,4 +1,4 @@
-# SQLEmployeeTracker
+# E-commerce Back End
 
 ## Not end product. NOt able to create the tables
 
@@ -12,12 +12,12 @@
 
 ## Description
 
-SQL Challenge: Employee Tracker
+Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 <hr>
 <b>User Story:</b><br>
-AS A business owner <br>
-I WANT to be able to view and manage the departments, roles, and employees in my company<br>
-SO THAT I can organize and plan my business<br>
+AS A manager at an internet retail company <br>
+I WANT a back end for my e-commerce website that uses the latest technologies <br>
+SO THAT my company can compete with other e-commerce companies
 
 
 ## Table of Contents
@@ -30,11 +30,11 @@ SO THAT I can organize and plan my business<br>
 
 ## Built With
 - Node.js
-- Mysql
+
 
 
 ## How to install
-You can install this readme by cloning this repository in your terminal with the following url: https://github.com/MSabaO/bootcamp2023-Challenge12-SQLEmployeeTracker.git.  Once completed, type "npm init -y" in the console to install the node packages. <br>
+You can install this readme by cloning this repository in your terminal with the following url: https://github.com/MSabaO/bootcamp2023-Challenge13-E-commerce.git.  Once completed, type "npm init -y" in the console to install the node packages. <br>
 step by step
 npm init -y
 npm install
@@ -44,7 +44,9 @@ node server.js or nodemon server.js
 Once installed, open your terminal and navigate into the folder of this app. Write in the terminal "node index.js", and launch the server in a browser to see the note taking app.<br>
 <br>
 <b>Screenshot of the questions</b>
-![alt text](image.png)
+![alt text](image.png) 
+![alt text](image-1.png)
+
 
 
 ## Contributions
