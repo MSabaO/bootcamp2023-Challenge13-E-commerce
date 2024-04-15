@@ -1,7 +1,4 @@
 # E-commerce Back End
-
-## Not end product. NOt able to create the tables
-
 <br/>
 <p align="center">
     <a href="https://unb.ca/cel/bootcamps/coding.html">
@@ -35,16 +32,17 @@ SO THAT my company can compete with other e-commerce companies
 
 ## How to install
 You can install this readme by cloning this repository in your terminal with the following url: https://github.com/MSabaO/bootcamp2023-Challenge13-E-commerce.git.  Once completed, type "npm init -y" in the console to install the node packages. <br>
-step by step
-npm init -y
-npm install
-node server.js or nodemon server.js
+<b>Step by step</b>
+- npm init -y
+- npm install
+- node server.js or nodemon server.js
+- npm run start
 
 ## Usage
 Once installed, open your terminal and navigate into the folder of this app. Write in the terminal "node index.js", and launch the server in a browser to see the note taking app.<br>
 <br>
-<b>Screenshot of the questions</b>
-![alt text](image.png) 
+<b>Screenshot of the questions</b><br>
+![alt text](image.png) <br>
 ![alt text](image-1.png)
 
 
